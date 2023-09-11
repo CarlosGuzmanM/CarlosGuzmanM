@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2020 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="297mm" height="210mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 29700 21000"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="300mm" height="90mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 30000 9000"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
-  <font id="FontID0" horiz-adv-x="668" font-variant="normal" class="str2" style="fill-rule:nonzero" font-weight="700">
+  <font id="FontID0" horiz-adv-x="668" font-variant="normal" class="str2" style="fill-rule:nonzero" font-style="normal" font-weight="700">
 	<font-face 
 		font-family="Dubai">
 		<font-face-src>
@@ -23,7 +23,7 @@ viewBox="0 0 29700 21000"
   </font>
   <style type="text/css">
    <![CDATA[
-    @font-face { font-family:"Dubai";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    @font-face { font-family:"Dubai";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
     .str2 {stroke-width:1.44;stroke-miterlimit:22.9256}
     .str1 {stroke:#FEFEFE;stroke-width:20;stroke-miterlimit:22.9256}
     .str0 {stroke:black;stroke-width:20;stroke-miterlimit:22.9256}
@@ -38,9 +38,9 @@ viewBox="0 0 29700 21000"
  </defs>
  <g id="Capa_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <rect class="fil0 str0" x="-150.54" y="6007.13" width="30000" height="9000"/>
-  <rect class="fil1 str1" x="20660.94" y="7961.9" width="4603.75" height="5238.75" rx="500" ry="500"/>
-  <text x="4551.87" y="12324.82"  class="fil2 str3 fnt0">Linked </text>
-  <text x="20839.64" y="12324.82"  class="fil0 str4 fnt0">in</text>
+  <rect class="fil0 str0" x="-0.54" y="7.13" width="30000" height="9000"/>
+  <rect class="fil1 str1" x="20810.94" y="1961.89" width="4603.75" height="5238.75" rx="500" ry="500"/>
+  <text x="4701.87" y="6324.82"  class="fil2 str3 fnt0">Linked </text>
+  <text x="20989.64" y="6324.82"  class="fil0 str4 fnt0">in</text>
  </g>
 </svg>
