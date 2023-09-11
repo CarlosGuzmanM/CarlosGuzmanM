@@ -3,10 +3,10 @@
   
 <h3 align="center">💬 Contact:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/cguzmanm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/cbb8d92bfacf259559e47cc861fbb0ee70f873c1/Linkedin.svg" alt="https://www.linkedin.com/in/cguzmanm/" height="90" width="300" /></a>
-<a href="https://medium.com/@carlosguzmanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/cbb8d92bfacf259559e47cc861fbb0ee70f873c1/Medium.svg" alt="@carlosguzmanm" height="90" width="300" /></a>
-<a href="mailto:cguzmanm99a@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/68488a632a3e3809d86e0f65b2681d8ec137b90c/Gmail.svg" alt="mailto:cguzmanm99a@gmail.com" height="90" width="300" /></a>
-<a href="x.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/64b21b82d111501b8da0359943e47915b592c1cd/Gmail.svg" alt="x.com" height="30" width="100" /></a>
+<a href="https://linkedin.com/in/cguzmanm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/64b21b82d111501b8da0359943e47915b592c1cd/Linkedin.svg" alt="https://www.linkedin.com/in/cguzmanm/" height="30" width="100" /></a>
+<a href="https://medium.com/@carlosguzmanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/cbb8d92bfacf259559e47cc861fbb0ee70f873c1/Medium.svg" alt="@carlosguzmanm" height="30" width="100" /></a>
+<a href="mailto:cguzmanm99a@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/68488a632a3e3809d86e0f65b2681d8ec137b90c/Gmail.svg" alt="mailto:cguzmanm99a@gmail.com" height="30" width="100" /></a>
+<a href="x.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/c65ee3a6295c183d0ca07265f79f37dbd82c796d/X.svg" alt="x.com" height="30" width="100" /></a>
 </p>
 
 
