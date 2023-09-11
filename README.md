@@ -4,7 +4,7 @@
 <h3 align="center">💬 Contact:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/cguzmanm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cguzmanm/" height="30" width="40" /></a>
-<a href="https://medium.com/@carlosguzmanm" target="blank"><img align="center" src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="@carlosguzmanm" height="30" width="40" /></a>
+<a href="https://medium.com/@carlosguzmanm" target="blank"><img align="center" src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="@carlosguzmanm" height="30" width="80" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
