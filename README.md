@@ -3,7 +3,7 @@
   
 <h3 align="center">💬 Contact:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/cguzmanm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/64b21b82d111501b8da0359943e47915b592c1cd/Linkedin.svg" alt="https://www.linkedin.com/in/cguzmanm/" height="30" width="100" /></a>
+<a href="https://linkedin.com/in/cguzmanm/" target="blank"><img align="center" src="https://github.com/CarlosGuzmanM/CarlosGuzmanM/blob/main/Linkedin.svg" alt="https://www.linkedin.com/in/cguzmanm/" height="30" width="100" /></a>
 <a href="https://medium.com/@carlosguzmanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/b5c27ef86382b2e3789a5f87f7ef5aa28cc5568b/Medium.svg" alt="@carlosguzmanm" height="30" width="100" /></a>
 <a href="mailto:cguzmanm99a@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/b5c27ef86382b2e3789a5f87f7ef5aa28cc5568b/Gmail.svg" alt="mailto:cguzmanm99a@gmail.com" height="30" width="100" /></a>
 <a href="https://x.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/CarlosGuzmanM/CarlosGuzmanM/c65ee3a6295c183d0ca07265f79f37dbd82c796d/X.svg" alt="https://x.com" height="30" width="100" /></a>
